@@ -44,6 +44,11 @@ $ git clone https://github.com/Gabriel-souzaa/numerical_calculation_jobs.git && 
 **Siga os passos**
 
 ```bash
+#Navegue para a paste de algum trabalho
+$ cd trabalho0
+
 # Instale as dependências
 $ pip install
+
+#Em seguida execute o arquivo .py
 ```
