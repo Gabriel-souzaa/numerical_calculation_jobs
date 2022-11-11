@@ -7,7 +7,7 @@
 import csv;
 import numpy;
 
-fileName = 'trabalhoCalculo.csv'
+fileName = 'equations.csv'
 
 def main():
   readFileCsV()

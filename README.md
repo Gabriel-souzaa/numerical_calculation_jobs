@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    Cálculo numérico Jobs
+    Cálculo numérico Job
   </h3>
 
   <p>
@@ -17,7 +17,7 @@
 
 ## 📘 Sobre o projeto
 
-- <p>Trabalhos referente a cálculo numérico para a faculdade/estudos de lógica.</p>
+- <p>Trabalho referente a cálculo numérico para a faculdade/estudos de lógica.</p>
 
 
 ### Detalhes do projeto
@@ -44,11 +44,9 @@ $ git clone https://github.com/Gabriel-souzaa/numerical_calculation_jobs.git && 
 **Siga os passos**
 
 ```bash
-#Navegue para a pasta de algum trabalho
-$ cd trabalho0
-
 # Instale as dependências
 $ pip install
 
-#Em seguida execute o arquivo .py
+#Execute o arquivo .py
+$ py linearSystem.py ou python3 linearSystem.py
 ```
